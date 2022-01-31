@@ -43,7 +43,7 @@ The apps presented in the lectures and apps developed in the exercise sessions c
 | Week | Date | Lecture |
 |--|--|--|
 | 01 | 01/02/2022 | [Getting Started](lecture01) |
-| 02 | 08/02/2022 | Introduction to Kotlin for Mobile Development |
+| 02 | 08/02/2022 | [Introduction to Kotlin for Mobile Development](lecture02) |
 | 03 | 15/02/2022 | App Resources and Basic User Interfaces |
 | 04 | 22/02/2022 | Advanced User Interfaces |
 | 05 | 01/03/2022 | Flexible Data View and Threads |
