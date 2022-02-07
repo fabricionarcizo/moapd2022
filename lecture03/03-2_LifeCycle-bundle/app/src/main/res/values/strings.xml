@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Life Cycle</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="checkbox_text">Select this option</string>
+    <string name="true_text">You clicked on the true button</string>
+    <string name="false_text">You clicked on the false button</string>
+    <string name="selected_text">"You %s the checkbox"</string>
+</resources>
