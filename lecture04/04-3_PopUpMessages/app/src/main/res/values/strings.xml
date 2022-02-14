@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pop-Up Messages</string>
+    <string name="button_text">Show Toast</string>
+</resources>

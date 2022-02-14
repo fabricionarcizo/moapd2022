@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Material Design</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="more">More</string>
+    <string name="content_description_favorite">Favorite</string>
+    <string name="content_description_search">Search</string>
+    <string name="content_description_more">More</string>
+    <string name="content_description_add">Add</string>
+</resources>

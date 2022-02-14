@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Fragments</string>
+    <string name="fragment_1_text">Fragment 1</string>
+    <string name="fragment_2_text">Fragment 2</string>
+    <string name="fragment_3_text">Fragment 3</string>
+    <string name="lorem_ipsum_long">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+</resources>
