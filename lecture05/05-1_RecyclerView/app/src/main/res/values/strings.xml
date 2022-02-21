@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+    <string name="content_description_background">Background</string>
+    <string name="content_description_media">Media</string>
+    <string name="title">%s</string>
+    <string name="secondary_text"><i>Birth year: %d\nCountry: %s</i></string>
+    <string name="supporting_text">%s</string>
+    <string name="lorem_ipsum_long">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis</string>
+</resources>

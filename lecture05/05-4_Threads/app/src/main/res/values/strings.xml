@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Threads</string>
+    <string name="fragment_1_text">Thread</string>
+    <string name="fragment_2_text">Handler</string>
+    <string name="fragment_3_text">Coroutines</string>
+    <string name="content_description_image">Image</string>
+    <string name="start_button">Start</string>
+    <string name="stop_button">Stop</string>
+    <string name="reset_button">Reset</string>
+    <string name="downloading_button">Downloading</string>
+    <string name="again_button">Download Again</string>
+    <string name="thread_text">Example of an Android Thread</string>
+    <string name="handler_text">Example of an Android Handler</string>
+    <string name="coroutines_text">Example of an Kotlin Coroutines</string>
+</resources>

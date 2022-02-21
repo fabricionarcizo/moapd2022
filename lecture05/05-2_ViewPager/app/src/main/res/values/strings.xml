@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">View Pager</string>
+    <string name="tab_1">Media</string>
+    <string name="tab_2">Shop</string>
+    <string name="tab_3">Social</string>
+    <string name="tab_4">Travel</string>
+    <string name="tab_5">Universal</string>
+    <string name="fragment_text">Fragment\nExample</string>
+    <string name="alternative_fragment_text">Fragment Example</string>
+    <string name="content_description_image">Image</string>
+    <string name="lorem_ipsum_long">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</string>
+</resources>
