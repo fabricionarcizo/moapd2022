@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firebase Authentication</string>
+    <string name="sign_out">Sign out</string>
+    <string name="content_description_sign_out">Sign out</string>
+    <string name="content_description_image">Image</string>
+    <string name="firebase_authentication">Firebase\nAuthentication</string>
+    <string name="firebase_user_description">You are already logged in as %s, you need to log out before logging in as different user.</string>
+</resources>
