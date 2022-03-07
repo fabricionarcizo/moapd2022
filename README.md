@@ -48,7 +48,7 @@ The apps presented in the lectures and apps developed in the exercise sessions c
 | 04 | 22/02/2022 | [Advanced User Interfaces](lecture04) |
 | 05 | 01/03/2022 | [Flexible Data View and Threads](lecture05) |
 | 06 | 08/03/2022 | [Android Backend with Google Firebase](lecture06) |
-| 07 | 15/03/2022 | Storage in Android (Part 01) |
+| 07 | 15/03/2022 | [Storage in Android (Part 01)](lecture07) |
 | 08 | 22/03/2022 | Storage in Android (Part 02) |
 | 09 | 29/03/2022 | Geolocation Based Applications |
 | 10 | 05/04/2022 | Using React and Flutter to Build Android Apps |

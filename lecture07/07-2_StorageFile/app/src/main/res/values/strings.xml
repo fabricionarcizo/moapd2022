@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Storage File</string>
+    <string name="content_description_image">Image</string>
+    <string name="content_description_add">Add</string>
+    <string name="enter_name">Enter name</string>
+    <string name="dialog_title">Adding new entry</string>
+    <string name="dialog_message">Create a new data in the database</string>
+    <string name="add_button">Add</string>
+    <string name="cancel_button">Cancel</string>
+</resources>
