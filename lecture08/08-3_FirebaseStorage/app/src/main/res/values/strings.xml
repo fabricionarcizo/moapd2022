@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Firebase Storage</string>
+    <string name="image">Image</string>
+    <string name="subtitles">Subtitles</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="delete">Do you want to delete the selected image?</string>
+    <string name="decline">Decline</string>
+    <string name="accept">Accept</string>
+    <string name="content_description_image">Image</string>
+    <string name="content_description_subtitles">Subtitles</string>
+    <string name="content_description_sign_out">Sign Out</string>
+    <string name="content_description_add">Add</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Storage Realm</string>
+    <string name="content_description_image">Image</string>
+    <string name="content_description_add">Add</string>
+    <string name="enter_name">Enter name</string>
+    <string name="dialog_add_title">Adding new entry</string>
+    <string name="dialog_add_message">Create a new data in the database</string>
+    <string name="dialog_update_title">Update an entry</string>
+    <string name="dialog_update_message">Update a selected data from the database</string>
+    <string name="add_button">Add</string>
+    <string name="update_button">Update</string>
+    <string name="cancel_button">Cancel</string>
+</resources>
