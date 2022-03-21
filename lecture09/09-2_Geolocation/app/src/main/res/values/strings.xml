@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Geolocation</string>
+    <string name="text_tab_1">Location-Aware</string>
+    <string name="text_tab_2">Google Maps</string>
+    <string name="latitude_text">LATITUDE</string>
+    <string name="longitude_text">LONGITUDE</string>
+    <string name="time_text">TIME</string>
+    <string name="content_description_location">Location</string>
+</resources>
