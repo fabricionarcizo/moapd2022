@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bluetooth Connection</string>
+    <string name="turn_on">Bluetooth On</string>
+    <string name="turn_off">Bluetooth Off</string>
+    <string name="visible_button">Get Visible</string>
+    <string name="device_info">%s\n(%s)</string>
+    <string name="content_description_image">Image</string>
+</resources>

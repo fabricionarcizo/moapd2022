@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/page_motion"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_rotate_90_degrees_ccw_24"
+        android:title="@string/motion_text"/>
+    <item
+        android:id="@+id/page_environmental"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_nature_24"
+        android:title="@string/environmental_text"/>
+    <item
+        android:id="@+id/page_position"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_my_location_24"
+        android:title="@string/position_text"/>
+</menu>
