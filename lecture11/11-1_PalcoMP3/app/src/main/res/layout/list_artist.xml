@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/selector_background"
+    android:gravity="center_vertical"
+    android:minHeight="?android:attr/listPreferredItemHeight"
+    android:orientation="vertical"
+    android:paddingTop="4dp">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0"
+        android:background="@android:color/white" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="2">
+
+        <ImageView
+            android:id="@+id/artist_image"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_weight="1"
+            android:background="@color/material_grey_300"
+            android:contentDescription="@string/content_description_artist"
+            android:scaleType="centerCrop" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/parent_color"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/artist_name_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxLines="2"
+                android:paddingBottom="4dp"
+                android:paddingStart="24dp"
+                android:paddingEnd="16dp"
+                android:paddingTop="24dp"
+                android:text="@string/text_artist"
+                android:textColor="@android:color/white"
+                android:textSize="24sp"
+                android:fontFamily="sans-serif-light" />
+
+            <TextView
+                android:id="@+id/artist_style_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingStart="24dp"
+                android:paddingEnd="16dp"
+                android:text="@string/text_artist_style"
+                android:textColor="@android:color/white"
+                android:textSize="14sp"
+                android:fontFamily="sans-serif-black" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/close_arrow"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginBottom="8dp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    android:backgroundTint="@color/child_color"
+                    android:scaleType="fitEnd"
+                    app:srcCompat="@drawable/ic_baseline_keyboard_arrow_down_24"
+                    android:contentDescription="@string/content_description_close" />
+
+                <ImageView
+                    android:id="@+id/open_arrow"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginBottom="8dp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    android:backgroundTint="@color/child_color"
+                    android:scaleType="fitEnd"
+                    app:srcCompat="@drawable/ic_baseline_keyboard_arrow_up_24"
+                    android:contentDescription="@string/content_description_open"
+                    android:visibility="gone" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

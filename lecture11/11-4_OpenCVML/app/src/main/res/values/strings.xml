@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OpenCV ML</string>
+    <string name="switch_camera_button_alt">Switch camera</string>
+    <string name="capture_button_alt">Capture</string>
+    <string name="gallery_button_alt">Gallery</string>
+    <string name="back_button_alt">Back</string>
+    <string name="last_taken_image_text">Last taken image</string>
+</resources>

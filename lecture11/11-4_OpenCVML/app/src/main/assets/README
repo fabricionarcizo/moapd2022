@@ -1,0 +1,3 @@
+This example uses a Caffe implementation of Google MobileNet SSD detection network, with pretrained weights on VOC0712 and mAP=0.727.
+The pretrained model is available on GitHub https://github.com/chuanqi305/MobileNet-SSD.
+You must download the MobileNetSSD_deploy.prototxt from https://github.com/chuanqi305/MobileNet-SSD/blob/master/voc/MobileNetSSD_deploy.prototxt and the MobileNetSSD_deploy.caffemodel from https://drive.google.com/open?id=0B3gersZ2cHIxRm5PMWRoTkdHdHc

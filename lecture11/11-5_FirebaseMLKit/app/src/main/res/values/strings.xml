@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase ML Kit</string>
+    <string name="content_description_firebase">ML Kit for Firebase</string>
+    <string name="content_description_camera">Camera</string>
+</resources>

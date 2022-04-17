@@ -51,8 +51,8 @@ The apps presented in the lectures and apps developed in the exercise sessions c
 | 07 | 15/03/2022 | [Storage in Android (Part 01)](lecture07) |
 | 08 | 22/03/2022 | [Storage in Android (Part 02)](lecture08) |
 | 09 | 29/03/2022 | [Geolocation Based Applications](lecture09) |
-| 10 | 05/04/2022 | Using React and Flutter to Build Android Apps |
-| 11 | 19/04/2022 | Android Multimedia and Machine Learning |
+| 10 | 05/04/2022 | [Using React and Flutter to Build Android Apps](lecture10) |
+| 11 | 19/04/2022 | [Android Multimedia and Machine Learning](lecture11) |
 | 12 | 26/04/2022 | Android Sensors |
 | 13 | 03/05/2022 | Safety in Android Apps |
 | 14 | 10/05/2022 | Introduction to Mobile Game Development |
